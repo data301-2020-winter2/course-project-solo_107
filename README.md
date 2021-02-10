@@ -17,9 +17,7 @@ From analyzing this data set, I hope to learn about how the quality and location
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Indira Mishra: My name is Indira, I am a math major at UBC and I am currently living in Florida, USA.
 
 ## References
 
