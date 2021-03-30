@@ -1,17 +1,24 @@
 ## Analysis
 
-This Notebook contains jupyter notebooks that cover the anaylis of my data.
+#### This Notebook contains jupyter notebooks that cover the anaylis of my data.
 
-1. **EDA - Cleaning**
+1. **milestone1.ipynb**
 
-This notebook goes through and cleans the data set.
+This notebook loads the data.
 
-2. **EDA - Visualizing**
+2. **milestone2.ipynb**
 
-This notebook is contains exploratory visualizations of the cleaned data.
+This notebook cleans, explores, and analyzes the data to answer some research questions.
 
-3. **EDA - Cleaning**
+#### The folders in this directory include:
 
-This notebook addresses my research questions and makes conclusions with the aid of visualizations.
+1. **scripts**
+
+This contains the project function needed to clean the data.
+
+2. **rough-work**
+
+This contains the rough work completed to prepare for milestone 2.
+
 
 Source of data set: https://www.kaggle.com/zynicide/wine-reviews

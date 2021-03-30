@@ -8,6 +8,6 @@ This contains the raw data set.
 
 2. **processed**
 
-empty so far.
+This contains the processed/cleaned data ready for use in tableau.
 
 - Original data source: https://www.kaggle.com/zynicide/wine-reviews
