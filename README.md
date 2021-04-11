@@ -13,6 +13,10 @@ This data set is provided by kaggle.com, which is an online community of data sc
 
 From analyzing this data set, I hope to learn about how the quality and location of wine are related to its price. I am interested in this data set because I have watched a documentary about wine tasting and I have gone wine tasting at some wineries. However, I never understood what qualities can make one wine so much more expensive than another. Additionally, I think it will be interesting to see which regions have the highest quality wine and which have the most expensive wine. Perhaps my analysis will be useful for determining the best places to go on vineyards tours while on vacation and which wines can be bought for the best quality at the most reasonable price. There are three questions I would like to explore: How is the price of wine related to its quality score? What country produces the highest scoring wine? What are the top ten most expensive regions for producing wine? I think that I will be able to build a nice dashboard based on some of the questions that I have about the data because I think this data will be good for visualizing.
 
+## Link to my Tableau Online Dashboard:
+
+https://us-west-2b.online.tableau.com/#/site/data301/views/solo_107/DataSetOverviewandEDApart1?:iid=1
+
 ## Team Members
 
 - Indira Mishra: My name is Indira, I am a math major at UBC and I am currently living in Florida, USA.
@@ -20,3 +24,4 @@ From analyzing this data set, I hope to learn about how the quality and location
 ## References
 
 Source of data set: https://www.kaggle.com/zynicide/wine-reviews
+

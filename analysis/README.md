@@ -12,11 +12,15 @@ This notebook cleans, explores, and analyzes the data to answer some research qu
 
 #### The folders in this directory include:
 
-1. **scripts**
+1. **WineDashBoard.twb**
+
+This is the Tableau Dashboard for answering two of my research questions.
+
+2. **scripts**
 
 This contains the project function needed to clean the data.
 
-2. **rough-work**
+3. **rough-work**
 
 This contains the rough work completed to prepare for milestone 2.
 
