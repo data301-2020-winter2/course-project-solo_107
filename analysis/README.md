@@ -12,7 +12,7 @@ This notebook cleans, explores, and analyzes the data to answer some research qu
 
 #### The folders in this directory include:
 
-1. **WineDashBoard.twb**
+1. **Lab7.twb**
 
 This is the Tableau Dashboard for answering two of my research questions.
 
