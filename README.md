@@ -17,6 +17,10 @@ From analyzing this data set, I hope to learn about how the quality and location
 
 https://us-west-2b.online.tableau.com/#/site/data301/views/solo_107/DataSetOverviewandEDApart1?:iid=1
 
+## Link to my Presentation Video:
+
+https://www.youtube.com/watch?v=7QsVFHVbILI
+
 ## Team Members
 
 - Indira Mishra: My name is Indira, I am a math major at UBC and I am currently living in Florida, USA.
